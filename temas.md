@@ -9,6 +9,6 @@ Autor
 
 Descrição breve do assunto se possivel com referencias
 
-Pessoas q gostariam que participasse go hangout
+Pessoas q gostariam que participasse do hangout
 
 ```
